@@ -40,18 +40,18 @@ execute all commands in your project root or sepcify which repo to use using the
 	travis-tools encrypt
 
 optional flags:
-- --save results to .travis.yml file
-- --repository=githubUserName/repositoryName ( must be provided when executed not inside a folger with a git repository )
+- *--save* results to .travis.yml file
+- *--repository*=githubUserName/repositoryName ( must be provided when executed not inside a folger with a git repository )
 
 ### travis pro
 
 	travis-tools encrypt --pro
 
 optional flags:
-- --username=githubUserName
-- --password=githubPassword
-- --save results to .travis.yml file
-- --repository=githubUserName/repositoryName ( must be provided when executed not inside a folger with a git repository )
+- *--username*=githubUserName
+- *--password*=githubPassword
+- *--save* results to .travis.yml file
+- *--repository*=githubUserName/repositoryName ( must be provided when executed not inside a folger with a git repository )
 
 
 ## VERSION HISTORY
