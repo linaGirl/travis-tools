@@ -14,6 +14,8 @@
 
 	describe('The Travis-Tools', function(){
 		it('Should be able to encrypt data for a public repository', function(done){
+			this.timeout(10000);
+
 			var child = spawn(path.join(project.root,'index.js'), ['encrypt', '--repository=eventEmitter/ee-travis'])
 				, result = ''
 				, errData = '';

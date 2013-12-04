@@ -40,7 +40,7 @@ execute all commands in your project root or sepcify which repo to use using the
 	travis-tools encrypt
 
 optional flags:
-- --save=save results to .travis.yml file
+- --save results to .travis.yml file
 - --repository=githubUserName/repositoryName ( must be provided when executed not inside a folger with a git repository )
 
 ### travis pro
@@ -50,7 +50,7 @@ optional flags:
 optional flags:
 - --username=githubUserName
 - --password=githubPassword
-- --save=save results to .travis.yml file
+- --save results to .travis.yml file
 - --repository=githubUserName/repositoryName ( must be provided when executed not inside a folger with a git repository )
 
 
@@ -58,3 +58,5 @@ optional flags:
 
 - 0.1.0: intial release
 - 0.1.1: fixed bugs in path resolution
+- 0.1.2: bugfix release
+- 0.1.2: fixed docs
