@@ -52,3 +52,9 @@ optional flags:
 - --password=githubPassword
 - --save=save results to .travis.yml file
 - --repository=githubUserName/repositoryName ( must be provided when executed not inside a folger with a git repository )
+
+
+## VERSION HISTORY
+
+- 0.1.0: intial release
+- 0.1.1: fixed bugs in path resolution
