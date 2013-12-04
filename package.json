@@ -1,7 +1,7 @@
 {
       "name"                        : "travis-tools"
     , "description"                 : "Easy secure data encryption for travis - without the gems!"
-    , "version"                     : "0.1.1"
+    , "version"                     : "0.1.2"
     , "homepage"                    : "https://github.com/eventEmitter/travis-tools"
     , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                     : "mit"
