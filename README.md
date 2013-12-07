@@ -13,7 +13,7 @@ Easy secure data encryption for travis - without the gems!
 
 ## usage
 
-You have to create a «travis.js» file in your project root directory. That file should contain the data you like to encrypt. In your project you may use the «ee-travis» library to load the secure data either from the ttravis.js file or the env variables set by travis.
+You have to create a «travis.js» file in your project root directory. That file should contain the data you like to encrypt. In your project you may use the «ee-travis» library to load the secure data either from the travis.js file or the env variables set by travis.
 
 **Don't forget to add this file to your .gitignore!**
 	
