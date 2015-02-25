@@ -29,12 +29,12 @@
 			}.bind(this));
 
 			
-			child.on('exit', function(code){
+			child.on('exit', function(code) {
 				if (code === 0 && result.length > 200 && !errData) done();
 				else throw new Error('Failed to execute: '+errData);
 			})
 
-			child.on('error', function(err){
+			child.on('error', function(err) {
 				throw err;
 			});
 		});
