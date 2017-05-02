@@ -1,5 +1,7 @@
 # travis-tools
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/travis-tools.svg)](https://greenkeeper.io/)
+
 Easy secure data encryption for travis - without the gems!
 
 ## installation
