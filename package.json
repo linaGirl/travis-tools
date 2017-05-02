@@ -29,7 +29,7 @@
         , "ee-async"                : "*"
         , "ee-argv"                 : "*"
         , "ee-simple-repl"          : "*"
-        , "js-yaml"                 : "2.1.3"
+        , "js-yaml"                 : "3.8.3"
     }
     , "devDependencies": {
           "mocha"                   : "*"
