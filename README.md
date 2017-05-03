@@ -1,5 +1,9 @@
 # travis-tools
 
+## [DEPRECATED]
+
+*The package is not maintained anymore!*
+
 Easy secure data encryption for travis - without the gems!
 
 ## installation
